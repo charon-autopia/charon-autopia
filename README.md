@@ -38,7 +38,7 @@
 ---
 
 <!-- 💼 关于我 -->
-## <img src="https://raw.githubusercontent.com/Tarikul- Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> `root@charon:~$ cat about.me`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `root@charon:~$ cat about.me`
 
 ```properties
 # ═══════════════════════════════════════════════════════════════
@@ -79,7 +79,7 @@ code        = Clean Code Advocate
 ---
 
 <!-- 🛠️ 技术栈 -->
-## <img src="https://raw.githubusercontent.com/Tarikul- Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> `root@charon:~$ neofetch --tech-stack`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> `root@charon:~$ neofetch --tech-stack`
 
 <div align="center">
 
@@ -116,6 +116,32 @@ code        = Clean Code Advocate
 <br><sub>Bash</sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><sub>React</sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" />
+<br><sub>Rust</sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65" />
+<br><sub>Go</sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+<br><sub>Linux</sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br><sub>AWS</sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+<br><sub>PostgreSQL</sub>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -127,7 +153,7 @@ code        = Clean Code Advocate
 ---
 
 <!-- 📊 活动图表 -->
-## <img src="https://raw.githubusercontent.com/Tarikul- Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> `root@charon:~$ htop --github`
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `root@charon:~$ htop --github`
 
 <div align="center">
 
@@ -142,7 +168,7 @@ code        = Clean Code Advocate
 ---
 
 <!-- 📬 联系方式 -->
-## <img src="https://raw.githubusercontent.com/Tarikul- Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="30"> `root@charon:~$ cat /etc/contact.conf`
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> `root@charon:~$ cat /etc/contact.conf`
 
 <div align="center">
 
